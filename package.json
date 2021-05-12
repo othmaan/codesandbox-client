@@ -89,7 +89,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "babel-standalone": "^6.25.0",
     "base64-loader": "^1.0.0",
-    "codemirror": "^5.27.4",
+    "codemirror": "^5.58.2",
     "color": "^0.11.4",
     "cssnano": "^3.10.0",
     "custom-prettier-codesandbox": "CompuIves/custom-prettier-codesandbox",
